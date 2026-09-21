@@ -15,6 +15,10 @@ I am a B.Tech student focused on Machine Learning and Python, currently building
 * **Frameworks & Libs:** Pandas, NumPy, Scikit-learn (add others as needed)
 * **Databases & Tools:** Git, GitHub, Jupyter Notebook
 
-## Github Stats 
-![My GitHub stats](https://vercel.app)
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthakSaxena12&show_icons=true&theme=radical&rank_icon=github" alt="Sarthak Saxena's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakSaxena12&layout=compact&theme=radical" alt="Top languages" />
+</p>
