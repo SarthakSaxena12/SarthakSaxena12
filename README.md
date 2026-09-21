@@ -15,4 +15,3 @@ I am a B.Tech student focused on Machine Learning and Python, currently building
 * **Frameworks & Libs:** Pandas, NumPy, Scikit-learn (add others as needed)
 * **Databases & Tools:** Git, GitHub, Jupyter Notebook
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakSaxena12&show_icons=true)](https://github.com/SarthakSaxena12)
