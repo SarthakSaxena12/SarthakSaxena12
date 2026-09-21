@@ -14,3 +14,7 @@ I am a B.Tech student focused on Machine Learning and Python, currently building
 * **Languages:** Python, C, HTML and CSS
 * **Frameworks & Libs:** Pandas, NumPy, Scikit-learn (add others as needed)
 * **Databases & Tools:** Git, GitHub, Jupyter Notebook
+
+## Github Stats 
+![My GitHub stats](https://vercel.app)
+
